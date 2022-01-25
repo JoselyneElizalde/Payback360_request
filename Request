@@ -1,0 +1,101 @@
+{
+    "codigo": "INT FOOD SERVICES CORP2022-185457",
+    "serviciosSelect": [
+        {
+            "idServicio": "88511751",
+            "observacion": "APC WJARA",
+            "coID": null,
+            "fechaInicio": "2016-09-02 11:25:20.0",
+            "idSubproducto": "AUT",
+            "idClasePersona": null,
+            "idLocalidad": null,
+            "idFormaPago": null,
+            "idContrato": "59860655",
+            "identificacion": null,
+            "idIdentificacion": null,
+            "nombreCompleto": null,
+            "codigoDoc": "1.17044839",
+            "tipoRequerimiento": "RENOVACION",
+            "tipoReducionEquipo": "REDUCCION PARCIAL DEL PRECIO",
+            "financia": "SI",
+            "cambioTarifa": "NO",
+            "planNuevo": "BP-9271 - EMPRESA SIN LIMITE 25",
+            "paqueteAdicional": "Internet Movil Emp 3 GB Adicional",
+            "equipo": "APPLE IPAD 32GB",
+            "valorReduccionEquipo": "20",
+            "plazoFinancia": 20
+        },
+        {
+            "idServicio": "80252189",
+            "observacion": "APC WJARA",
+            "coID": null,
+            "fechaInicio": "2016-09-02 11:24:54.0",
+            "idSubproducto": "AUT",
+            "idClasePersona": null,
+            "idLocalidad": null,
+            "idFormaPago": null,
+            "idContrato": "59860655",
+            "identificacion": null,
+            "idIdentificacion": null,
+            "nombreCompleto": null,
+            "codigoDoc": "1.17044839",
+            "tipoRequerimiento": "RENOVACION",
+            "financia": "NO",
+            "tipoReducionEquipo": "NINGUNO",
+            "cambioTarifa": "NO",
+            "planNuevo": "BP-2362 - CORPORATIVO 63 300 - 2362 CO",
+            "paqueteAdicional": "Internet Movil Emp 1 GB Adicional",
+            "equipo": "ALCATEL X060",
+            "valorReduccionEquipo": "20",
+            "plazoFinancia": 24
+        }
+    ],
+    "canal": "ASES",
+    "vigenciaContratos": "24",
+    "selectBeneficios": [
+        {
+            "beneficio": "Roaming internacional gratuito",
+            "descripcion": "Beneficio de roaming entregado en la negociacion",
+            "meses": [
+                {
+                    "mes": "12",
+                    "valor": "2"
+                },
+                {
+                    "mes": "21",
+                    "valor": "20"
+                }
+            ]
+        },
+        {
+            "beneficio": "Descuentos al plan",
+            "descripcion": "Credito a tarifa basica",
+            "meses": [
+                {
+                    "mes": "21",
+                    "valor": "20"
+                }
+            ]
+        }
+    ],
+    "customerinfoLocal": {
+        "customerId": "00003188",
+        "personalInformation": {
+            "identificationType": "RUC",
+            "identificationNumber": "1791415132001",
+            "fullName": "INT FOOD SERVICES CORP",
+            "givenNames": "",
+            "familyNames": "",
+            "birthday": "1999-05-17",
+            "nationality": "",
+            "gender": ""
+        },
+        "contactInformation": {
+            "email": gusg47@gus.com.ec,
+            "province": "PICHINCHA",
+            "district": "QUITO",
+            "parish": "QUITO"
+        },
+        "subscriptions": null
+    }
+}
