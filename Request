@@ -2,7 +2,7 @@
     "codigo": "INT FOOD SERVICES CORP2022-185457",
     "serviciosSelect": [
         {
-            "idServicio": "88511751",
+            "idServicio": "94074261",
             "observacion": "APC WJARA",
             "coID": null,
             "fechaInicio": "2016-09-02 11:25:20.0",
@@ -26,7 +26,7 @@
             "plazoFinancia": 20
         },
         {
-            "idServicio": "80252189",
+            "idServicio": "62300812",
             "observacion": "APC WJARA",
             "coID": null,
             "fechaInicio": "2016-09-02 11:24:54.0",
